@@ -116,15 +116,6 @@ npm install
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -139,8 +130,8 @@ Project Link: [WeatherApp](https://github.com/vladpr31/weatherApp-test-)
 <!-- ACKNOWLEDGMENTS -->
 ## Known BUGS\Issues
 
-* [Sometimes the search bar has a delay with the searched location.]()
-* [Favorites saved for session, the favorite location are not stored on any DB.]()
+* Sometimes the search bar has a delay with the searched location.
+* Favorites saved for session(on app rerun favorites deletes.), the favorite location are not stored on any DB.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
