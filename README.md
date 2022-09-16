@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/vladpr31/WeatherApp-test-">
-    <img src="![image](https://user-images.githubusercontent.com/57320419/190829619-833a80b6-5985-466c-ac23-60200221c4e3.png)
+    <img src="https://pbs.twimg.com/media/EVKk70aU4AAGnTY.jpg
 " alt="Logo" width="80" height="80">
   </a>
 
