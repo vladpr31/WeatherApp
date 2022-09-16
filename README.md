@@ -62,7 +62,7 @@
   - You can search for a spesific location using the search bar.
   - Add location to favorites.
   - Five days forecast.
-[![Weather App][product-screenshot]](https://i.imgur.com/VbJs9pO.png)
+[!product screenshot](https://i.imgur.com/VbJs9pO.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
