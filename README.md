@@ -62,7 +62,7 @@
   - You can search for a spesific location using the search bar.
   - Add location to favorites.
   - Five days forecast.
-[![Product Name Screen Shot][product-screenshot]](![image](https://user-images.githubusercontent.com/57320419/190828876-e21d0c3a-7db6-401c-bb38-27a67f19aea0.png))
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/VbJs9pO.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
