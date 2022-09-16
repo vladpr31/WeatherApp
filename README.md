@@ -101,7 +101,7 @@ npm install
 1. Get a free API Key at [AccuWeather](https://developer.accuweather.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/vladpr31/WeatherApp-test-.git
    ```
 3. Install NPM packages
    ```sh
