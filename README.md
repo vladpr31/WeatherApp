@@ -13,7 +13,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/vladpr31/WeatherApp-test-">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/AccuWeather_Logo.svg/3000px-AccuWeather_Logo.svg.png" alt="Logo" width="80" height="80">
+    <img src="![image](https://user-images.githubusercontent.com/57320419/190829619-833a80b6-5985-466c-ac23-60200221c4e3.png)
+" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">WetherApp using AccuWeatherAPI</h3>
