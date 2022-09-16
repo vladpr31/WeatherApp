@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-![LinkedIn][linkedin-shield](https://www.linkedin.com/in/vlad-propisnov/)
+![LinkedIn](https://www.linkedin.com/in/vlad-propisnov/)
 
 
 
